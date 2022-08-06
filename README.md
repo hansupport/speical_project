@@ -6,5 +6,5 @@
 python 3.10
 
 ## 2. Python Flask WebSite
-파이썬 플라스크로 구현하는 기분 일기 웹사이트
+파이썬 플라스크로 구현하는 기분 일기 웹사이트   
 python 3.10
